@@ -1,0 +1,7 @@
+# Ignore Bootstrap files
+
+bootstrap.css
+bootstrap.min.css
+bootstrap.bundle.js
+bootstrap.bundle.min.js
+jquery.js
